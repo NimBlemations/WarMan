@@ -1,0 +1,10 @@
+/build
+/.vs
+*~
+.DS_Store
+/*.xcodeproj/*.mode1v3
+/*.xcodeproj/*.pbxuser
+/lib
+/assets
+/SDL
+/Backup
